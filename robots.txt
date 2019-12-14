@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /database/
+Disallow: /scripts/
+Disallow: https://www.anything.com/foster.php
